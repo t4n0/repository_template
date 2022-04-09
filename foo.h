@@ -1,0 +1,3 @@
+class FooClass {};
+
+void FooFunction();
